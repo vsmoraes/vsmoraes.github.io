@@ -1,0 +1,136 @@
+{
+  "meta": { "theme": "spartan" },
+  "basics": {
+    "name": "Vinicius Sabino de Moraes",
+    "label": "Tech Lead, Backend engineer",
+    "picture": "https://avatars2.githubusercontent.com/u/617445?s=460&u=eb9fda44ab1bb40661fbbc838c697d6db8e41ba6&v=4",
+    "email": "vinicius@vsmoraes.com",
+    "phone": "+55 11 99866-9100",
+    "website": "http://vsmoraes.com",
+    "summary": "Backend engineer for more than 15 years, with a lot of experience in PHP, Go, Node, Docker and Linux. Addicted to technology, GNU/Linux and DevOps culture. Skilled sysadmin. Trying to lead by example and always with arms and heart wide open for everyone.",
+    "location": {
+      "city": "São Paulo",
+      "countryCode": "BR",
+      "region": "São Paulo"
+    },
+    "profiles": [{
+      "network": "Linkedin",
+      "username": "vsmoraes",
+      "url": "https://www.linkedin.com/in/vsmoraes/"
+    }, {
+      "network": "Twitter",
+      "username": "vsmoraes",
+      "url": "https://twitter.com/vsmoraes"
+    }, {
+      "network": "Github",
+      "username": "vsmoraes",
+      "url": "https://github.com/vsmoraes"
+    }]
+  },
+  "work": [{
+    "company": "Remessa Online powered by Beetech",
+    "position": "Tech Lead",
+    "website": "https://www.remessaonline.com.br/",
+    "startDate": "2020-01-06",
+    "summary": "Working closely with management and the product team, I'm responsible for creating the best environment possible so my team can deliver the best solutions possible. In order to achieve this, I take part on all architecture and system design matters. My role is to enable and guide my team towards the most viable and scalable solution, always maintaining a great level of quality. My role also includes responsabilities like people development, code reviews, 1:1s, systems design and archtecture and mentorship."
+  }, {
+    "company": "Cabify",
+    "position": "Engineering Manager",
+    "website": "https://www.lana.xyz/",
+    "startDate": "2018-05-01",
+    "endDate": "2019-12-31",
+    "summary": "During my time at Cabify, I was working as a backend engineer and, later on, as engineering manager in a finance project called Lana. Since this was a remote and distributed team, my day to day work required great comunication skills, mainly in english. I worked closely with the team in Madrid and Mexico to achieve the first version of tha Lana wallet."
+  }, {
+    "company": "Dafiti",
+    "position": "Software Development Specialist",
+    "website": "https://www.dafiti.com.br/",
+    "startDate": "2015-07-01",
+    "endDate": "2018-05-01",
+    "summary": "Development of high performance and scalable support services for the main e-commerce and its backoffice. Working closely with the product team to deliver products related to the discount platform, fright control and the transaction system management. Technologies used: PHP, MySQL, Redis, RabbitMQ, Jenkins, Jira, Bamboo, Git, ELK, Go, Javascript, Lambda, SQS, SNS and Kinesis."
+  }, {
+    "company": "Telium Networks",
+    "position": "Senior Web Development Analyst",
+    "website": "https://telium.com.br/",
+    "startDate": "2010-02-01",
+    "endDate": "2015-07-01",
+    "summary": "Developement of systems based on PHP, ExtJS, Symfony, PostgreSQL, MySQL, Asterisk, LDAP, Active Directory and more."
+  }, {
+    "company": "4Linux",
+    "position": "Developer, IT Consultant, Instructor",
+    "website": "https://4linux.com.br/",
+    "startDate": "2009-06-01",
+    "endDate": "2010-02-01",
+    "summary": "Web site traffic growth, web site UI and advertising revenue. Developed brand strategy and statistics systems, IT Consulting, Open source software consulting, PHP Instructor"
+  }, {
+    "company": "Autoserviço",
+    "position": "Web Developer",
+    "website": "https://www.autoservico.net.br/",
+    "startDate": "2008-06-01",
+    "endDate": "2009-02-01",
+    "summary": "Application development based on PHP, GTK+2 and MySQL"
+  }],
+  "volunteer": [],
+  "education": [],
+  "skills": [{
+    "name": "Backend Development",
+    "level": "Master",
+    "keywords": [
+      "PHP",
+      "Golang",
+      "NodeJS",
+      "JavaScript",
+      "TypeScript",
+      "Python"
+    ]
+  }, {
+    "name": "Database / Storage",
+    "level": "Advanced",
+    "keywords": [
+      "MySQL / MariaDB",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "CouchDB",
+      "CockroachDB"
+    ]
+  }, {
+    "name": "Frontend Development",
+    "level": "Intermediate",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "ReactJS",
+      "VueJS"
+    ]
+  }, {
+    "name": "Infrastructure",
+    "level": "Advanced",
+    "keywords": [
+      "Systems administration",
+      "Linux",
+      "Windows",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Google Cloud"
+    ]
+  }],
+  "languages": [{
+    "languages": "Portuguese",
+    "fluency": "Native speaker"
+  }, {
+    "language": "English",
+    "fluency": "Advanced"
+  }, {
+    "language": "Spanish",
+    "fluency": "Basic"
+  }],
+  "interests": [{
+    "name": "Gaming",
+    "keywords": []
+  }, {
+    "name": "RPG",
+    "keywords": []
+  }],
+  "references": []
+}
